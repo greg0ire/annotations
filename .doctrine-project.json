@@ -8,18 +8,13 @@
             "name": "1.14",
             "branchName": "1.14.x",
             "slug": "latest",
-            "upcoming": true
+            "current": true
         },
         {
             "name": "1.13",
             "branchName": "1.13.x",
             "slug": "1.13",
-            "aliases": [
-                "current",
-                "stable"
-            ],
-            "current": true,
-            "maintained": true
+            "maintained": false
         },
         {
             "name": "1.12",
